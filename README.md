@@ -1,1 +1,1 @@
-bookify-hub.netlify.app
+https://bookify-hub.netlify.app/
